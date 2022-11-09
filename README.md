@@ -1,4 +1,4 @@
-# Matrix_Invert_2-2
+# Matrix_Inverse_2-2
 This is a project in which our team uses Verilog HDL to achieve the inverse of 2-order matrix.
 
 ## Introduction
